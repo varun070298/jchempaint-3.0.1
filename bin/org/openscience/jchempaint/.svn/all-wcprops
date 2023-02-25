@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/cdk/!svn/ver/15288/jchempaint/branches/3_0/src/main/org/openscience/jchempaint
+END
+JChemPaintViewerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/cdk/!svn/ver/15247/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JChemPaintViewerPanel.java
+END
+JChemPaintPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JChemPaintPopupMenu.java
+END
+JChemPaintMenuHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/cdk/!svn/ver/15294/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JChemPaintMenuHelper.java
+END
+StringHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/StringHelper.java
+END
+JCPToolBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JCPToolBar.java
+END
+GT.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/cdk/!svn/ver/15276/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/GT.java
+END
+JCPStatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JCPStatusBar.java
+END
+InsertTextPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/InsertTextPanel.java
+END
+JCPMenuTextMaker.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/cdk/!svn/ver/15276/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JCPMenuTextMaker.java
+END
+JChemPaintMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/cdk/!svn/ver/15275/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JChemPaintMenuBar.java
+END
+JChemPaintPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/cdk/!svn/ver/15282/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JChemPaintPanel.java
+END
+JExternalFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JExternalFrame.java
+END
+AbstractJChemPaintPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/cdk/!svn/ver/15284/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/AbstractJChemPaintPanel.java
+END
+JCPPropertyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/JCPPropertyHandler.java
+END
+SwingPopupModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/cdk/!svn/ver/15288/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/SwingPopupModule.java
+END
+RenderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/cdk/!svn/ver/15247/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/RenderPanel.java
+END

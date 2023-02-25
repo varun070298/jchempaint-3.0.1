@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/cdk/!svn/ver/15141/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io
+END
+JCPFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/cdk/!svn/ver/15141/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io/JCPFileFilter.java
+END
+JCPFileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io/JCPFileView.java
+END
+JCPSaveFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/cdk/!svn/ver/15141/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io/JCPSaveFileFilter.java
+END
+IJCPFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io/IJCPFileFilter.java
+END
+JCPExportFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/io/JCPExportFileFilter.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/cdk/!svn/ver/15244/jchempaint/branches/3_0/lib
+END
+fest-assert-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/fest-assert-1.1.jar
+END
+jfontchooser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/jfontchooser.jar
+END
+fest-util-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/fest-util-1.1.jar
+END
+fest-reflect-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/fest-reflect-1.1.jar
+END
+fest-swing-1.2a2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/fest-swing-1.2a2.jar
+END
+log4j.mini.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/cdk/!svn/ver/15244/jchempaint/branches/3_0/lib/log4j.mini.jar
+END
+commons-cli.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/lib/commons-cli.jar
+END

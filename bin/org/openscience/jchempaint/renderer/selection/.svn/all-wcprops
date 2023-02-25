@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection
+END
+RectangleSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/RectangleSelection.java
+END
+AbstractSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/AbstractSelection.java
+END
+IncrementalSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/IncrementalSelection.java
+END
+MultiSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/MultiSelection.java
+END
+SingleSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/SingleSelection.java
+END
+IChemObjectSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/IChemObjectSelection.java
+END
+ShapeSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/ShapeSelection.java
+END
+LassoSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/LassoSelection.java
+END
+LogicalSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/selection/LogicalSelection.java
+END

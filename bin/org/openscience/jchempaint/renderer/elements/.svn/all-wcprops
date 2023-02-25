@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/cdk/!svn/ver/15260/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements
+END
+LineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/LineElement.java
+END
+PathElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/PathElement.java
+END
+TextElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15260/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/TextElement.java
+END
+GeneralPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/GeneralPath.java
+END
+ArrowElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/ArrowElement.java
+END
+RingElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/RingElement.java
+END
+OvalElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/OvalElement.java
+END
+AtomSymbolElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/AtomSymbolElement.java
+END
+WigglyLineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/WigglyLineElement.java
+END
+TextGroupElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/cdk/!svn/ver/15260/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/TextGroupElement.java
+END
+AtomMassSymbolElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/AtomMassSymbolElement.java
+END
+RectangleElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/RectangleElement.java
+END
+WedgeLineElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/WedgeLineElement.java
+END
+IRenderingElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/IRenderingElement.java
+END
+IRenderingVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/IRenderingVisitor.java
+END
+ElementGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/elements/ElementGroup.java
+END

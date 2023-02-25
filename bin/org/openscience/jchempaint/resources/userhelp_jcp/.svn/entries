@@ -1,0 +1,56 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/resources/userhelp_jcp
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2010-01-06T10:32:49.163520Z
+15267
+shk3
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+jcp.html
+file
+
+
+
+
+2009-12-01T12:37:56.000000Z
+bb3fd9ac85ef74005d82a6b8971de9a8
+2009-10-23T13:13:47.522940Z
+15012
+shk3
+has-props
+
+license.html
+file
+
+
+
+
+2010-01-06T09:55:35.000000Z
+0876da9cfdfa2cb177e389c36fb036f9
+2010-01-06T10:32:49.163520Z
+15267
+shk3
+
+contain
+dir
+

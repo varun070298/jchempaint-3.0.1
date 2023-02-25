@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/data
+END
+a-pinen.cml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/data/a-pinen.cml
+END
+smiles.smi
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/data/smiles.smi
+END
+basic.mol
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/data/basic.mol
+END

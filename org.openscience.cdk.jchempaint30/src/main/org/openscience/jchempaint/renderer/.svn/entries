@@ -1,0 +1,142 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2010-01-04T13:47:09.995774Z
+15260
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+IRenderer.java
+file
+
+
+
+
+2009-12-01T12:37:39.000000Z
+546a9864d10424b9423f4c37381045ba
+2009-11-24T16:59:31.328673Z
+15088
+shk3
+
+visitor
+dir
+
+JCPAction2D.java
+file
+
+
+
+
+2009-12-01T12:37:39.000000Z
+5a75fdb9ea14b7274958eb51f86fd203
+2009-11-19T16:04:44.893207Z
+15070
+shk3
+
+RenderingParameters.java
+file
+
+
+
+
+2009-12-08T15:27:51.000000Z
+446d9c517fa37738fb17f3638bcda34a
+2009-12-30T16:20:58.603770Z
+15247
+shk3
+
+BoundsCalculator.java
+file
+
+
+
+
+2009-12-01T12:37:42.000000Z
+811903cf387b8a1357d927e5a3d1d56d
+2009-11-19T10:46:00.654025Z
+15066
+shk3
+
+selection
+dir
+
+Renderer.java
+file
+
+
+
+
+2009-12-01T12:37:45.000000Z
+3eb9a95ee5dc6bc86ea301a25b285e55
+2009-11-26T14:24:34.772324Z
+15100
+shk3
+
+font
+dir
+
+RendererModel.java
+file
+
+
+
+
+2009-12-01T12:37:45.000000Z
+364d90fdc51c4fd593782c49eac20144
+2009-11-26T14:24:34.772324Z
+15100
+shk3
+
+GraphRendererModel.java
+file
+
+
+
+
+2009-12-01T12:37:45.000000Z
+0b22a783e1de3ff2ebda8d139bfaaa4c
+2009-11-19T10:46:00.654025Z
+15066
+shk3
+
+generators
+dir
+
+AtomContainerRenderer.java
+file
+
+
+
+
+2009-12-01T12:37:46.000000Z
+7efba50350354fd127f8eea04f023c83
+2009-11-24T16:59:31.328673Z
+15088
+shk3
+
+elements
+dir
+
+color
+dir
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/cdk/!svn/ver/15287/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor
+END
+PropertiesModelEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15287/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/PropertiesModelEditor.java
+END
+PseudoAtomEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/PseudoAtomEditor.java
+END
+AtomEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/AtomEditor.java
+END
+ChemObjectPropertyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/cdk/!svn/ver/15287/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/ChemObjectPropertyDialog.java
+END
+BondEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/BondEditor.java
+END
+ChemObjectEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/ChemObjectEditor.java
+END
+AtomContainerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/AtomContainerEditor.java
+END
+ReactionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/editor/ReactionEditor.java
+END

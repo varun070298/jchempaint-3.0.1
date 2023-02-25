@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/cdk/!svn/ver/15260/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer
+END
+RendererModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/RendererModel.java
+END
+GraphRendererModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/GraphRendererModel.java
+END
+AtomContainerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/AtomContainerRenderer.java
+END
+JCPAction2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/JCPAction2D.java
+END
+BoundsCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/BoundsCalculator.java
+END
+RenderingParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/cdk/!svn/ver/15247/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/RenderingParameters.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/Renderer.java
+END
+IRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/IRenderer.java
+END

@@ -1,0 +1,53 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/templates/Alkaloids
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2009-10-09T11:23:13.453676Z
+14961
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+ChEBI_17303.png
+file
+
+
+
+
+2009-12-01T12:37:30.000000Z
+7ec540254910e26b1bf05d0dff6208de
+2009-10-08T10:33:48.285969Z
+14945
+shk3
+has-props
+
+ChEBI_17303.mol
+file
+
+
+
+
+2009-12-01T12:37:30.000000Z
+16c04ec2c15900d40f3643ad09fab5a5
+2009-10-08T10:33:48.285969Z
+14945
+shk3
+

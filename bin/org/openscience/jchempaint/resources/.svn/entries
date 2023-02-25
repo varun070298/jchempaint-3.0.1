@@ -1,0 +1,103 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/resources
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2010-01-07T12:04:48.129031Z
+15276
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+JCPGUI_application.properties
+file
+
+
+
+
+2010-01-07T10:53:16.000000Z
+c2ed1c9dff878a008485dbc581b2d02a
+2010-01-07T12:04:48.129031Z
+15276
+shk3
+has-props
+
+large-bin
+dir
+
+JCPGUI_applet.properties
+file
+
+
+
+
+2010-01-07T10:53:40.000000Z
+ae149c360403b7709592ccb481c6ca28
+2010-01-07T12:04:48.129031Z
+15276
+shk3
+has-props
+
+apponly
+dir
+
+userhelp_jcp
+dir
+
+JCPShort_Cuts.properties
+file
+
+
+
+
+2009-12-01T12:38:25.000000Z
+f34d37c0cc2164af8a8736750218d247
+2009-09-23T17:11:56.485806Z
+14868
+shk3
+
+JChemPaintResources.properties
+file
+
+
+
+
+2010-01-05T14:53:52.000000Z
+ea9b19613ae2f238e7488fb71b3715d3
+2010-01-05T15:36:59.312450Z
+15262
+shk3
+has-props
+
+funcgroups.txt
+file
+
+
+
+
+2009-12-01T12:38:25.000000Z
+a629328f581a83d9e9fa8a200e295280
+2008-11-26T17:08:54.226353Z
+13313
+shk3
+
+small-bin
+dir
+

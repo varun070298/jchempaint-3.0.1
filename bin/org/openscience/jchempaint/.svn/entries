@@ -1,0 +1,251 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2010-01-11T15:07:44.304510Z
+15288
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+AbstractJChemPaintPanel.java
+file
+
+
+
+
+2010-01-08T14:16:05.000000Z
+9f12f60c8e0bcdab2572f09d501e56f3
+2010-01-08T14:17:28.787573Z
+15284
+shk3
+
+GT.java
+file
+
+
+
+
+2010-01-07T11:38:28.000000Z
+e482f7eef0bf019f09405d15007d87ba
+2010-01-07T12:04:48.129031Z
+15276
+shk3
+
+InsertTextPanel.java
+file
+
+
+
+
+2009-12-01T12:37:50.000000Z
+8d12875ee05d9572b24452acb8d0a459
+2009-11-26T09:48:07.643297Z
+15094
+shk3
+
+JCPMenuTextMaker.java
+file
+
+
+
+
+2010-01-07T11:39:49.000000Z
+0ceb579dc3982ee4104792d3bfac2877
+2010-01-07T12:04:48.129031Z
+15276
+shk3
+
+JCPPropertyHandler.java
+file
+
+
+
+
+2009-12-01T12:37:36.000000Z
+09247ce456fe0ae4646d092d25c6052a
+2009-11-19T16:04:44.893207Z
+15070
+shk3
+
+JCPStatusBar.java
+file
+
+
+
+
+2009-12-01T12:37:21.000000Z
+7fe20d63105ef447d599865b7972ad89
+2009-02-05T16:04:00.219584Z
+14072
+shk3
+has-props
+
+JCPToolBar.java
+file
+
+
+
+
+2009-12-01T12:37:10.000000Z
+cbb3b8f54c7d654b4d2d21ab8aa241e2
+2009-11-19T16:04:44.893207Z
+15070
+shk3
+
+JChemPaintMenuBar.java
+file
+
+
+
+
+2010-01-07T10:41:41.000000Z
+570ae3b11868bf06d94d3baa1e9344ad
+2010-01-07T10:45:40.320881Z
+15275
+shk3
+has-props
+
+JChemPaintMenuHelper.java
+file
+15294
+
+
+
+2010-01-13T11:21:43.000000Z
+d7ff55628aba2d64701898fdc130fb2c
+2010-01-13T11:44:39.290428Z
+15294
+shk3
+
+JChemPaintPanel.java
+file
+
+
+
+
+2010-01-08T13:34:57.000000Z
+82e73cac6174548c089135faa18abc05
+2010-01-08T13:38:31.859916Z
+15282
+shk3
+
+JChemPaintPopupMenu.java
+file
+
+
+
+
+2009-12-01T12:38:28.000000Z
+4eaf2cae639e637da736ddcc2a145ee0
+2009-02-27T13:06:59.508366Z
+14274
+shk3
+has-props
+
+JChemPaintViewerPanel.java
+file
+
+
+
+
+2009-12-08T15:47:49.000000Z
+4a8fe907067f4c5ea4929ccb1e0694a7
+2009-12-30T16:20:58.603770Z
+15247
+shk3
+
+JExternalFrame.java
+file
+
+
+
+
+2009-12-01T12:37:21.000000Z
+ff83cf7a4c0dc572904d725c3959f2b4
+2009-03-24T15:42:26.970712Z
+14526
+gilleain
+
+RenderPanel.java
+file
+
+
+
+
+2009-12-30T15:05:54.000000Z
+12db54090a20672a0623e8e31eda48d9
+2009-12-30T16:20:58.603770Z
+15247
+shk3
+
+StringHelper.java
+file
+
+
+
+
+2009-12-01T12:37:21.000000Z
+34695750b60f6e2b96abc026e5205e5d
+2008-11-24T15:18:33.512229Z
+13254
+shk3
+has-props
+
+SwingPopupModule.java
+file
+
+
+
+
+2010-01-11T15:01:59.000000Z
+e56847238e2ff196459dd563f72bf47e
+2010-01-11T15:07:44.304510Z
+15288
+shk3
+
+action
+dir
+
+applet
+dir
+
+application
+dir
+
+controller
+dir
+
+dialog
+dir
+
+io
+dir
+
+renderer
+dir
+
+resources
+dir
+
+undoredo
+dir
+

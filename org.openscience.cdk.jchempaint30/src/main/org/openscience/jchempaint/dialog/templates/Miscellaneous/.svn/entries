@@ -1,0 +1,53 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/templates/Miscellaneous
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2009-10-09T11:23:13.453676Z
+14961
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+ChEBI_33128.mol
+file
+
+
+
+
+2009-12-01T12:37:30.000000Z
+1efb87a57c4df956ecf8ce288cf2a6fe
+2009-10-06T15:40:55.408859Z
+14932
+shk3
+
+ChEBI_33128.png
+file
+
+
+
+
+2009-12-01T12:37:30.000000Z
+362dfd33a0212dade95465f7e9b2326b
+2009-10-07T17:14:44.270693Z
+14943
+shk3
+has-props
+

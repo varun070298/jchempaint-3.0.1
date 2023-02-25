@@ -1,0 +1,67 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/dialog/templates
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2009-11-30T14:12:58.368378Z
+15129
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+Beta_Lactams
+dir
+
+DummyClass.java
+file
+
+
+
+
+2009-12-01T12:37:30.000000Z
+7455ccc4136ce9bd5dba8e5d224c5d1b
+2009-10-06T15:40:55.408859Z
+14932
+shk3
+
+Alkaloids
+dir
+
+Inositols
+dir
+
+Miscellaneous
+dir
+
+Lipids
+dir
+
+Carbohydrates
+dir
+
+Steroids
+dir
+
+Nucleosides
+dir
+
+Porphyrins
+dir
+

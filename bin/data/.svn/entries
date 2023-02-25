@@ -1,0 +1,67 @@
+8
+
+dir
+15293
+https://cdk.svn.sf.net/svnroot/cdk/jchempaint/branches/3_0/src/test/data
+https://cdk.svn.sf.net/svnroot/cdk
+
+
+
+2009-08-26T17:29:42.282422Z
+14776
+shk3
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+eb4e18e3-b210-0410-a6ab-dec725e4b171
+
+a-pinen.cml
+file
+
+
+
+
+2009-12-01T12:37:09.000000Z
+f23827ed6dcab49faf08b3a0a2a1720d
+2009-08-26T14:59:34.533925Z
+14774
+shk3
+
+smiles.smi
+file
+
+
+
+
+2009-12-01T12:37:09.000000Z
+40e75d909464ffde36b8285c837c88a3
+2009-08-26T14:59:34.533925Z
+14774
+shk3
+
+basic.mol
+file
+
+
+
+
+2009-12-01T12:37:09.000000Z
+63630538bb0ba28f1c19f3dcf977de15
+2009-08-26T17:29:42.282422Z
+14776
+shk3
+
+chebi
+dir
+

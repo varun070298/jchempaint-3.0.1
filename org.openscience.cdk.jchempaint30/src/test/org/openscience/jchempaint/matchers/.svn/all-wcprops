@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/org/openscience/jchempaint/matchers
+END
+DialogTitleComponentMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/org/openscience/jchempaint/matchers/DialogTitleComponentMatcher.java
+END
+ComboBoxTextComponentMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/org/openscience/jchempaint/matchers/ComboBoxTextComponentMatcher.java
+END
+ButtonTextComponentMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/test/org/openscience/jchempaint/matchers/ButtonTextComponentMatcher.java
+END

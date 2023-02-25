@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/cdk/!svn/ver/15289/jchempaint/branches/3_0/META-INF
+END
+applet-resources-core.files
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/META-INF/applet-resources-core.files
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/META-INF/MANIFEST.MF
+END
+applet-viewer-opts.files
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/META-INF/applet-viewer-opts.files
+END
+applet-editor.files
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/cdk/!svn/ver/15289/jchempaint/branches/3_0/META-INF/applet-editor.files
+END
+applet-core.files
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/cdk/!svn/ver/15289/jchempaint/branches/3_0/META-INF/applet-core.files
+END
+jchempaint.datafiles
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/META-INF/jchempaint.datafiles
+END
+applet-editor-opts.files
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/META-INF/applet-editor-opts.files
+END

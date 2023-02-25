@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/cdk/!svn/ver/15247/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators
+END
+ReactantsBoxGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ReactantsBoxGenerator.java
+END
+RingGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/RingGenerator.java
+END
+IReactionGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/IReactionGenerator.java
+END
+TooltipGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/cdk/!svn/ver/15247/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/TooltipGenerator.java
+END
+IGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/IGenerator.java
+END
+MappingGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/MappingGenerator.java
+END
+ControllerFeedbackGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ControllerFeedbackGenerator.java
+END
+ProductsBoxGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ProductsBoxGenerator.java
+END
+BasicGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/BasicGenerator.java
+END
+RadicalGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/RadicalGenerator.java
+END
+ExtendedAtomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ExtendedAtomGenerator.java
+END
+IGeneratorParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/IGeneratorParameter.java
+END
+BasicBondGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/BasicBondGenerator.java
+END
+HighlightAtomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/HighlightAtomGenerator.java
+END
+AtomContainerTitleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/AtomContainerTitleGenerator.java
+END
+BoundsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/BoundsGenerator.java
+END
+BasicAtomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/BasicAtomGenerator.java
+END
+SelectBondGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/SelectBondGenerator.java
+END
+AtomMassGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/AtomMassGenerator.java
+END
+ReactionPlusGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ReactionPlusGenerator.java
+END
+LonePairGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/LonePairGenerator.java
+END
+AtomNumberGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/AtomNumberGenerator.java
+END
+SelectAtomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/SelectAtomGenerator.java
+END
+ExternalHighlightGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ExternalHighlightGenerator.java
+END
+MergeAtomsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/MergeAtomsGenerator.java
+END
+HighlightBondGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/HighlightBondGenerator.java
+END
+ReactionBoxGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ReactionBoxGenerator.java
+END
+AtomContainerBoundsGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/AtomContainerBoundsGenerator.java
+END
+ReactionArrowGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/cdk/!svn/ver/15140/jchempaint/branches/3_0/src/main/org/openscience/jchempaint/renderer/generators/ReactionArrowGenerator.java
+END
